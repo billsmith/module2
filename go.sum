@@ -1,2 +1,4 @@
-github.com/billsmith/module1 v1.0.0 h1:0x0qRWYUHf5Tqy/0leLep9pOxYgTsZDHoApe8qDKmik=
-github.com/billsmith/module1 v1.0.0/go.mod h1:COnvS8+YQlNmr+zTeeb3BWwSTTO0U4q8mk+nh5vPrL8=
+github.com/billsmith/module1/v2 v2.0.0 h1:G2uhDFGnK3Jt8sA7kSBhdgTXJM6+2hLiG3J1w7qGGm8=
+github.com/billsmith/module1/v2 v2.0.0/go.mod h1:xoZD0li3+5kIh/eNdz+PmmfkwnL0FOanpAOBSWT32gA=
+github.com/billsmith/module3 v1.0.0 h1:KUsBeOrV8ugWXD1TjAaggKR+5dSutJrMT9wf5cOfRcU=
+github.com/billsmith/module3 v1.0.0/go.mod h1:tuC8x1huZTLnn6+h8NM6JbBur047YfXA0UX+DWjp+1A=

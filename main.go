@@ -1,10 +1,12 @@
 package main
 
 import (
-    "github.com/billsmith/module1"
     "fmt"
+    "github.com/billsmith/module1/v2"
+    "github.com/billsmith/module3"
 )
 
 func main() {
-     fmt.Println(module1.Inc(0))
+     fmt.Println(module1.Dec(0))
+     fmt.Println(module3.Mul(16))
 }
